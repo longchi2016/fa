@@ -10,7 +10,7 @@
 }(this, (function () { 'use strict';
 
 /*  */
-
+// this is a space
 var emptyObject = Object.freeze({});
 
 // these helpers produces better vm code in JS engines due to their
